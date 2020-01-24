@@ -1,5 +1,5 @@
 {
-	"name"       : "rarst/laps",
+	"name"       : "jayfrown/laps",
 	"description": "Light WordPress profiler.",
 	"keywords"   : ["wordpress", "performance"],
 	"type"       : "wordpress-plugin",
